@@ -262,11 +262,11 @@ body {
       
       /* Background images */
       .offer-box.one {
-        background-image: url('photo/child4.jpg'); /* Replace with your image */
+        background-image: url('child4.jpg'); /* Replace with your image */
       }
       
       .offer-box.two {
-        background-image: url('photo/education.jpg'); /* Replace with your image */
+        background-image: url('education.jpg'); /* Replace with your image */
       }
       
       /* Responsive Design */
@@ -368,7 +368,7 @@ body {
   
    }
     .register_tab{
-       background-image: url(photo/1.jpg);
+       background-image: url(1.jpg);
        background-size: cover;
        height:auto;
        width:90%;
@@ -383,7 +383,7 @@ body {
     
     @media (max-width:450px) {
      .register_tab{
-      background-image: url(photo/1.jpg);
+      background-image: url(1.jpg);
   
      }
     
@@ -727,7 +727,7 @@ body {
     width: 100%;
     height:350px;
     color:var(--main-bg-color);
-    background-image:url(photo/background.jpg);
+    background-image:url(background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     display: flex;
@@ -774,7 +774,7 @@ body {
 
   @media  screen and (max-width:670px) {
     .online{
-      background-image: url(photo/background.jpg);
+      background-image: url(background.jpg);
     }
     
   }
